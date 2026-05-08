@@ -946,4 +946,4 @@ We welcome contributions! Here's how you can help:
 *Building the future of education, one commit at a time.*
 
 ---
-</div>
+</div># LearnSphere-Backend
