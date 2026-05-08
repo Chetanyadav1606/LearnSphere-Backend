@@ -140,8 +140,8 @@ Before you begin, ensure you have the following installed:
 1️⃣ **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/learnsphere-backend.git
-cd learnsphere-backend
+git clone https://github.com/Chetanyadav1606/LearnSphere-Backend.git
+cd LearnSphere-Backend
 ```
 
 2️⃣ **Configure Database**
@@ -921,11 +921,10 @@ We welcome contributions! Here's how you can help:
 
 <div align="center">
 
-### **Ganesh Singh**
+### **Chetan Yadav**
 *Lead Architect & System Developer*
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganesh-AIML)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganesh-singh-aiml)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chetanyadav1606)
 </div>
 
 ---
@@ -941,10 +940,9 @@ We welcome contributions! Here's how you can help:
 
 ### ⭐ Star this repository if you find it helpful!
 
-**Made with ❤️ by Ganesh Singh**
+**Made with ❤️ by Chetan Yadav**
 
 *Building the future of education, one commit at a time.*
 
 ---
-</div># LearnSphere-Backend
-# LearnSphere-Backend
+</div>
